@@ -8,8 +8,8 @@ syringe pump.
 
 [Overview](/overview.md)
 
-[Mechanical assembly](/mechanical-assembly.md)
+[Mechanical assembly](/Mechanical-assembly.md)
 
-[Electrical assembly](/electrical-assembly.md)
+[Electrical assembly](/Electrical-assembly.md)
 
 [Code](/code.md)
