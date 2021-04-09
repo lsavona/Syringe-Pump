@@ -1,3 +1,6 @@
 # Electrical Assembly
 
-wiring, etc
+| Syntax | description |
+|---------|---------|
+| Header | Title |
+| paragraph | text |
