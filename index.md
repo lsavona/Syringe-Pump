@@ -6,4 +6,4 @@
 
 syringe pump.
 
-(mechanical assembly) [/mechanical-assembly.md]
+[mechanical assembly](/mechanical-assembly.md)
